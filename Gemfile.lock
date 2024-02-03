@@ -266,6 +266,7 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
+  bundler
   github-pages (~> 214)
   jekyll (~> 3.9.0)
   rake (~> 13.0.3)
